@@ -1,1 +1,4 @@
 creating d.txt
+
+
+learning git
