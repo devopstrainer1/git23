@@ -1,4 +1,8 @@
 creating d.txt
 
 
-learning git
+learning
+
+branching
+
+testing
