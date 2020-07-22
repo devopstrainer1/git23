@@ -1,5 +1,6 @@
 creating d.txt
 
+pack
 think
 
 learning
